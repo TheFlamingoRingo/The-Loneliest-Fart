@@ -2,3 +2,33 @@ Hi, add these to your commandline/argument line
 Prism: After importing the modpack, click the instance, open "edit" on the left side of the screen, then navigate to "settings". From there, navigate to Java at the top of the screen (next to general, tweaks, etc.) First, click memory, and assign a Max Memory Usage to something you're comofrtable with, mimim of 6000 MiB, but I recommend 8000 MiB+. Then, click the "Java Arguments" box, then paste the following in there:
 
 -XX:+UseZGC -XX:+ZGenerational -XX:+AlwaysPreTouch -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+UseStringDeduplication -XX:TrimNativeHeapInterval=5000
+
+
+Also, your resource packs might break when the modpack is imported. To get to your resourcepacks, open the menu, go to options then resource packs. You want the following, from the top down. 
+FA+All_Extentions
+FA+Player
+Fresh Animations
+FA+Details
+FA+Objects
+FA+Emissive
+Punchy!
+Bushy Pink Petals, Wildflowers
+Fancy Crops
+Fire_Rekindled
+Extended_Illumina
+Os' Colorful Grasses
+Biome Water Color Particles
+Better Grass Slabs
+Bushy Leaves for Vinery
+Farm & Charm
+Candlelight
+Bakery
+Vrwery
+Better Leaves
+Connected Texture Support
+Stay True
+Moonlight Dynamic Resources
+Atmosfera/Dungeons
+Mod Resources
+Fabric Mods
+Default
