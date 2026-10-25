@@ -4,10 +4,11 @@ Prism: After importing the modpack, click the instance, open "edit" on the left 
 -XX:+UseZGC -XX:+ZGenerational -XX:+AlwaysPreTouch -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+UseStringDeduplication -XX:TrimNativeHeapInterval=5000
 
 
-Also, your resource packs might break when the modpack is imported. To get to your resourcepacks, open the menu, go to options then resource packs. You want the following, from the top down. 
+Also, your resource packs might break when the modpack is imported. To get to your resourcepacks, open the menu, go to options then resource packs. You want the following, from the top down. (It's easier to add them from the bottom up)
+
+Fresh Animations
 FA+All_Extentions
 FA+Player
-Fresh Animations
 FA+Details
 FA+Objects
 FA+Emissive
